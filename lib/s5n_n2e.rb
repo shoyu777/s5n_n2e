@@ -4,5 +4,6 @@ module S5nN2e
   class Error < StandardError; end
 
   class S5nN2e
+    #testS
   end
 end
