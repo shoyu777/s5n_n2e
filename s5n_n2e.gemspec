@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = [""]
 
   spec.summary       = %q{To shorten a word like internationalization -> i18n.}
-  spec.description   = %q{You can shorten any word/words you want as like, internationalization -> i18n or "Stay hungry, stay foolish." -> "S2y h4y, s2y f5h."}
+  spec.description   = %q{You can shorten any word/words you want as like, internationalization -> i18n or "Stay hungry, stay foolish." -> "S2y h4y, s2y f5h." Please try it!}
   spec.homepage      = "https://github.com/shoyu777/s5n_n2e"
   spec.license       = "MIT"
 
