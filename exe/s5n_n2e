@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 's5n_n2e'
+
+puts S5nN2e.shorten(ARGV[0])
